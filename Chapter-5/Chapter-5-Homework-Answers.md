@@ -1,6 +1,6 @@
 * **问题 1 答案**  
 [答案代码](5.1.c)
-```
+```C
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
@@ -38,7 +38,7 @@ child after changed x = 200 (pid:6369)
 
 * **问题 2 答案**  
 [答案代码](5.2.c)
-```
+```C
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
@@ -77,7 +77,7 @@ child write something!
 
 * **问题 3 答案**  
 [答案代码](5.3.c)
-```
+```C
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
@@ -101,7 +101,7 @@ int main()
 
 * **问题 4 答案**  
 [答案代码](5.4.c)
-```
+```C
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
@@ -168,7 +168,7 @@ boot  etc  lib	 media	opt  root  sbin  sys  usr
 
 * **问题 5 答案**  
 [答案代码](5.5.c)
-```
+```C
 #include<stdio.h>
 #include<unistd.h>
 #include<sys/wait.h>
@@ -200,7 +200,7 @@ parentpid:14494 wc:14495 rc:14495
 
 * **问题 6 答案**  
 [答案代码](5.6.c)
-```
+```C
 #include<stdio.h>
 #include<unistd.h>
 #include<sys/wait.h>
@@ -232,7 +232,7 @@ waitpid在进程本身有子进程的时候有用。
 
 * **问题 7 答案**  
 [答案代码](5.7.c)
-```
+```C
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
@@ -260,7 +260,7 @@ int main()
 
 * **问题 8 答案**  
 [答案代码](5.8.c)
-```
+```C
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
