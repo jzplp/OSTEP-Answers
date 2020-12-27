@@ -1,4 +1,4 @@
-* **Question 1 Answer**  
+* **问题 1 答案**  
 
 ```
 [testjz@localhost cpu-intro]$ ./process-run.py -l 5:100,5:100
@@ -36,7 +36,7 @@ Time    PID: 0    PID: 1       CPU       IOs
 [testjz@localhost cpu-intro]$ 
 ```
 
-* **Question 2 Answer**  
+* **问题 2 答案**  
 ```
 [testjz@localhost cpu-intro]$ ./process-run.py -l 4:100,1:0
 Produce a trace of what would happen when you run these processes:
@@ -68,7 +68,7 @@ Time    PID: 0    PID: 1       CPU       IOs
 [testjz@localhost cpu-intro]$ 
 ```
 
-* **Question 3 Answer**  
+* **问题 3 答案**  
 ```
 [testjz@localhost cpu-intro]$ ./process-run.py -l 1:0,4:100
 Produce a trace of what would happen when you run these processes:
@@ -96,7 +96,7 @@ Time    PID: 0    PID: 1       CPU       IOs
 [testjz@localhost cpu-intro]$ 
 ```
 
-* **Question 4 Answer**  
+* **问题 4 答案**  
 ```
 [testjz@localhost cpu-intro]$ ./process-run.py -l 1:0,4:100 -c  -S SWITCH_ON_END
 Time    PID: 0    PID: 1       CPU       IOs
@@ -112,7 +112,7 @@ Time    PID: 0    PID: 1       CPU       IOs
 [testjz@localhost cpu-intro]$ 
 ```
 
-* **Question 5 Answer**  
+* **问题 5 答案**  
 ```
 [testjz@localhost cpu-intro]$ ./process-run.py -l 1:0,4:100 -c  -S SWITCH_ON_IO
 Time    PID: 0    PID: 1       CPU       IOs
@@ -125,7 +125,7 @@ Time    PID: 0    PID: 1       CPU       IOs
 [testjz@localhost cpu-intro]$
 ```
 
-* **Question 6 Answer**  
+* **问题 6 答案**  
 ```
 [testjz@localhost cpu-intro]$ ./process-run.py -l 3:0,5:100,5:100,5:100 -S SWITCH_ON_IO -I IO_RUN_LATER -c -p
 Time    PID: 0    PID: 1    PID: 2    PID: 3       CPU       IOs
@@ -164,7 +164,7 @@ Stats: IO Busy  12 (44.44%)
 [testjz@localhost cpu-intro]$
 ```
 
-* **Question 7 Answer**  
+* **问题 7 答案**  
 ```
 [testjz@localhost cpu-intro]$ ./process-run.py -l 3:0,5:100,5:100,5:100 -S SWITCH_ON_IO -I IO_RUN_IMMEDIATE -c -p
 Time    PID: 0    PID: 1    PID: 2    PID: 3       CPU       IOs
@@ -195,5 +195,5 @@ Stats: IO Busy  12 (66.67%)
 ```
 因为有过IO操作的进程很有可能后面也会进行IO操作，为了使CPU有效利用，应该在IO结束不久后运行该进程，使其得到继续阻塞IO的机会。
 
-* **Question 8 Answer**  
+* **问题 8 答案**  
 随机测试，无答案。
