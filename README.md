@@ -14,6 +14,9 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 * [编程作业答案](Chapter-5/Chapter-5-Homework-Answers.md)
 #### 第6章 机制：受限直接执行
 * [测量作业答案](Chapter-6/Chapter-6-Homework-Answers.md)
+#### 第7章 进程调度：介绍
+* [模拟作业答案](Chapter-7/Chapter-7-Homework-Answers.md)
+
 
 ## 编译/执行环境
 * 操作系统 Centos7
