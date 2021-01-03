@@ -16,7 +16,8 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 * [测量作业答案](Chapter-6/Chapter-6-Homework-Answers.md)
 #### 第7章 进程调度：介绍
 * [模拟作业答案](Chapter-7/Chapter-7-Homework-Answers.md)
-
+#### 第8章 调度：多级反馈队列
+* [模拟作业答案](Chapter-8/Chapter-8-Homework-Answers.md)
 
 ## 编译/执行环境
 * 操作系统 Centos7
