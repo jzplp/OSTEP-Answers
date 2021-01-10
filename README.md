@@ -20,6 +20,8 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 * [模拟作业答案](Chapter-8/Chapter-8-Homework-Answers.md)
 #### 第9章 调度：比例份额
 * [模拟作业答案](Chapter-9/Chapter-9-Homework-Answers.md)
+#### 第14章 插叙：内存操作API
+* [编程作业答案](Chapter-14/Chapter-14-Homework-Answers.md)
 
 ## 编译/执行环境
 * 操作系统 Centos7
