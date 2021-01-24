@@ -28,6 +28,8 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 * [模拟作业答案](Chapter-16/Chapter-16-Homework-Answers.md)
 #### 第17章 空闲空间管理
 * [模拟作业答案](Chapter-17/Chapter-17-Homework-Answers.md)
+#### 第18章 分页：介绍
+* [模拟作业答案](Chapter-18/Chapter-18-Homework-Answers.md)
 
 
 ## 编译/执行环境
