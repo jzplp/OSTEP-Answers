@@ -26,6 +26,9 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 * [模拟作业答案](Chapter-15/Chapter-15-Homework-Answers.md)
 #### 第16章 分段
 * [模拟作业答案](Chapter-16/Chapter-16-Homework-Answers.md)
+#### 第17章 空闲空间管理
+* [模拟作业答案](Chapter-17/Chapter-17-Homework-Answers.md)
+
 
 ## 编译/执行环境
 * 操作系统 Centos7
