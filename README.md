@@ -34,7 +34,8 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 * [测量作业答案](Chapter-19/Chapter-19-Homework-Answers.md)
 #### 第20章 分页：较小的表
 * [模拟作业答案](Chapter-20/Chapter-20-Homework-Answers.md)
-
+#### 第22章 超越物理内存：策略
+* [模拟作业答案](Chapter-22/Chapter-22-Homework-Answers.md)
 
 ## 编译/执行环境
 * 操作系统 Centos7
