@@ -4,7 +4,6 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 操作系统导论（中文版）
 * 作业答案
 
-注：只有部分章节包含作业
 ## 答案目录
 
 ### 第一部分 虚拟化
@@ -39,7 +38,11 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 ### 第二部分 并发
 #### 第26章 并发：介绍
 * [模拟作业答案](Chapter-26/Chapter-26-Homework-Answers.md)
+#### 第28章 锁
+* [模拟作业答案](Chapter-28/Chapter-28-Homework-Answers.md)
 
+
+注：只有部分章节包含作业。开源书有部分章节比中文出版书作业更多，这里仅按照中文出版书回答。
 
 ## 编译/执行环境
 * 操作系统 Centos7
@@ -49,5 +52,5 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 ## 相关链接
 * [本书相关信息网站](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
 * [书正文中代码下载](https://github.com/remzi-arpacidusseau/ostep-code)  
-* [作业相关程序下载](https://github.com/remzi-arpacidusseau/ostep-homework)  
+* [作业相关代码下载](https://github.com/remzi-arpacidusseau/ostep-homework)  
 * [项目说明下载](https://github.com/remzi-arpacidusseau/ostep-projects)  
