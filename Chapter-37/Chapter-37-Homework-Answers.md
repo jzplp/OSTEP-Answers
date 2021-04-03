@@ -251,7 +251,7 @@ TOTALS      Seek:160  Rotate:545  Transfer:390  Total:1095
 
 * **问题 10 答案**  
 全局最优的调度比贪婪方法好的例子 10,11,0,21,1,2,3,4,5,6  
-全局最优由FIFO方法，手动指定调度策略。
+全局最优由FIFO方法，手动指定全局调度结果。
 ```
 ostep-homework-master\file-disks> python disk.py -a 10,11,0,21,1,2,3,4,5,6 -p SATF -G
 
