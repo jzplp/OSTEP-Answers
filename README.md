@@ -47,6 +47,9 @@ OSTEP-操作系统导论 答案 Operating Systems: Three Easy Pieces
 * [模拟作业答案](Chapter-38/Chapter-38-Homework-Answers.md)
 #### 第39章 插叙：文件和目录
 * [编程作业答案](Chapter-39/Chapter-39-Homework-Answers.md)
+#### 第40章 文件系统实现
+* [编程作业答案](Chapter-40/Chapter-40-Homework-Answers.md)
+
 
 
 注：只有部分章节包含作业。开源书有部分章节比中文出版书作业更多，这里仅按照中文出版书回答。
